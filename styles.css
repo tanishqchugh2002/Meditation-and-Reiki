@@ -1,0 +1,56 @@
+body{
+    text-align: center;
+}
+
+#top{
+    background-color: #FFF5EB;
+    text-align: left;
+}
+.navbar{
+    background-color:rgb(196, 146, 231);
+    color: black;
+}
+.image{
+    border-radius: 50%;
+
+}
+#pic{
+    width: 40px;
+    padding-bottom: 5px;
+}
+.image:hover{
+    transform: rotate(50);
+}
+.Paragraph{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: larger;
+    font-weight: 300;
+}
+.third{
+    padding-top: 30px;
+    background-color: #FFF5B7;
+}
+
+.fourth{
+    background-color: #E5B299;
+}
+.two{
+    text-align: left;
+}
+.youtube{
+    border-radius: 100%;
+}
+.footer{
+    background-color: lawngreen;
+    padding: 10px;
+}
+.name{
+    padding-top: 120px;
+    padding-left: 40px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    color: mediumvioletred;
+}
+.insta{
+    height: 100px;
+}
